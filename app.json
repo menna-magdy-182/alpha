@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "8e3d3985-0b5b-4612-9813-6e7d71f3bbbb"
+      }
+    },
+    "owner": "menna.magdy182"
   }
 }
